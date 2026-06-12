@@ -147,3 +147,7 @@ Password: admin123
 ## Important note for assignment
 
 The password is stored as plain text to keep the project simple for learning. In a real website, passwords should be hashed using bcrypt.
+
+## Project Status
+
+The Smart Gym Assistant project includes user pages, admin pages, backend APIs, and PostgreSQL database connection.
